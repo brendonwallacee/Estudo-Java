@@ -1,8 +1,6 @@
 package domain;
 
-import java.io.Serializable;
-
-public class Calculadora implements Serializable {
+public class Calculadora {
     float a;
     float b;
 
